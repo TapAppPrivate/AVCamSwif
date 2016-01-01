@@ -1,12 +1,6 @@
 ### Swift Version of AVCam for iOS ###
 
-===========================================================================
-DESCRIPTION:
-
-This this a swift version of AVCam . rewrites by alex.chan  2014.11.21
-project url: 
-
-AVCam demonstrates usage of AV Foundation capture API for recording movies, taking still images, and switching cameras. It runs only on an actual device, either an iPad or iPhone, and cannot be run in the simulator.
+SNAPCHAT LIKE CAM
 
 ===========================================================================
 BUILD REQUIREMENTS:
@@ -19,9 +13,4 @@ RUNTIME REQUIREMENTS:
 iOS 7.0 or later
 
 ===========================================================================
-CHANGES FROM PREVIOUS VERSION:
-
-Rewrote to take advantage of modern Cocoa Touch features.
-
-===========================================================================
-Copyright (C) 2013 Apple Inc. All rights reserved.
+Copyright (C) 2016 Etienne Lunetta. All rights reserved.
